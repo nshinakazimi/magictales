@@ -1,6 +1,3 @@
-![programming-wallpaper-4](https://user-images.githubusercontent.com/83643063/137196058-314308e8-dcd5-4943-a79c-88ac752b0915.jpg)
-
-
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=40&vCenter=true&width=850&height=60&lines=7%2B+years+of+hands-on+experience+in+programming;Shopify+Theme+Developer+%26+Frontend+Specialist;Shopify+plus+with+Ruby+script+%2F+CRO+AB+test;Speed%2FSEO+speed+optimization+with+Lighthouse;Shopify+app+integration(ReCharge%2C+Metafield%2C+etc);3rd+party+app+integration(Landbot%2C+Tidio%2C+etc))](https://git.io/typing-svg)
@@ -21,9 +18,28 @@ Here are some ideas to get you started:
 
 I'm been practicing programming for over 7 years and I'm always learning and always improving!
 
-📫 How to reach me: **Email**(toptalentdev@gmail.com) **Skype**(live:.cid.61aaa92e297e171e)
+<p>📫 <strong>How to reach me:</strong></p>
+<p>📧 <strong>Email:</strong> toptalentdev@gmail.com</br>💬 <strong>Skype:</strong> live:.cid.61aaa92e297e171e</p>
+</br>
+</br>
 
-![speed-up-your-web-and-make-it-load-under-3-sec-let-me-try](https://user-images.githubusercontent.com/83643063/137223808-b3a7993a-3880-426a-99de-036ca0d19969.jpg)
+<table>
+<tbody>
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://user-images.githubusercontent.com/83643063/137224948-ee4962d2-a60a-4409-86d9-79960a72c400.png" width="600">      
+    </td>
+    <td style="width: 50%;">
+<!--       <img src="https://user-images.githubusercontent.com/83643063/137223808-b3a7993a-3880-426a-99de-036ca0d19969.jpg" width="600">   -->
+      <img src="https://user-images.githubusercontent.com/83643063/137243258-1282be89-a4f0-4af5-bdb6-1f9198274cfa.jpg" width="600">  
+    </td>
+  </tr>    
+</tbody>
+</table>
+
+<div style="display: flex;justify-content:space-between;align-items: center;">
+  
+</div>
   
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
@@ -44,8 +60,8 @@ I'm been practicing programming for over 7 years and I'm always learning and alw
 ## **What I can do**
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" /> -->
+<img align="right" src="https://user-images.githubusercontent.com/83643063/137241590-9faf9b66-d624-448f-86dd-10544fd7d6ae.png" width="400">
 ✔️ Shopify plus with Ruby script
 <br />
 ✔️ CRO AB test
@@ -61,3 +77,4 @@ I'm been practicing programming for over 7 years and I'm always learning and alw
 ✔️ React/Vue.js
 <br />
  <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
+</div>
